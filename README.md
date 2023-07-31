@@ -1,2 +1,2 @@
 # Croissant
-Check my Responsive SheCodes challenge here: https://sparkling-llama-3312ef.netlify.app/
+First Responsive SheCodes challenge: https://sparkling-llama-3312ef.netlify.app/
